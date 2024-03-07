@@ -43,9 +43,9 @@ When run the program will select a sample of 100 rows and preprocess the text of
 
 ### 1. A selection of examples
 The text, polarity score (sentiment strength) and reviewer rating is shown for:
-   - Two identified as having positive sentiment
-   - Two identified as having neutral sentiment
-   - Two identified as having negative sentiment
+   - Two reviews identified as having positive sentiment
+   - Two reviews identified as having neutral sentiment
+   - Two reviews identified as having negative sentiment
      
 ![Screenshot1](https://github.com/EnjoyRealTea/finalCapstone/assets/153746885/6521f19c-dcc6-44fe-8b2f-cb213949ec03)
 
